@@ -1,1 +1,2 @@
 // Commit 1 - Fix login authentication flow
+// Commit 2 - Update admin table layout
