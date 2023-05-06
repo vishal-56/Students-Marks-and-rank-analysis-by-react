@@ -2,3 +2,4 @@
 // Commit 2 - Update admin table layout
 // Commit 3 - Improve form validation
 // Commit 4 - Refactor route handling
+// Commit 5 - Optimize modal rendering
