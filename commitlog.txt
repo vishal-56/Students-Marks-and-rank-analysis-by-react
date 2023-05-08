@@ -4,3 +4,4 @@
 // Commit 4 - Refactor route handling
 // Commit 5 - Optimize modal rendering
 // Commit 6 - Update package dependencies
+// Commit 7 - Fix API endpoint for marks
