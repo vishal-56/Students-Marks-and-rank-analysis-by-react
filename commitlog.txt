@@ -7,3 +7,4 @@
 // Commit 7 - Fix API endpoint for marks
 // Commit 8 - Enhance user experience on home page
 // Commit 9 - Improve loading performance
+// Commit 10 - Fix minor typo in HTML
