@@ -9,3 +9,4 @@
 // Commit 9 - Improve loading performance
 // Commit 10 - Fix minor typo in HTML
 // Commit 11 - Adjust CSS in App.js
+// Commit 12 - Update Firebase init
