@@ -10,3 +10,4 @@
 // Commit 10 - Fix minor typo in HTML
 // Commit 11 - Adjust CSS in App.js
 // Commit 12 - Update Firebase init
+// Commit 13 - Refactor controller logic
