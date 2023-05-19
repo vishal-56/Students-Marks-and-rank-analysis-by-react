@@ -15,3 +15,4 @@
 // Commit 15 - Cleanup code in third year view
 // Commit 16 - Optimize recommendations page
 // Commit 17 - Fix broken link in navbar
+// Commit 18 - Add fallback UI in loader
