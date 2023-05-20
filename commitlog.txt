@@ -16,3 +16,4 @@
 // Commit 16 - Optimize recommendations page
 // Commit 17 - Fix broken link in navbar
 // Commit 18 - Add fallback UI in loader
+// Commit 19 - Improve accessibility
