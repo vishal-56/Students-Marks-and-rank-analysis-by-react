@@ -19,3 +19,4 @@
 // Commit 19 - Improve accessibility
 // Commit 20 - Minor UI fixes
 // Commit 21 - Update README with installation steps
+// Commit 22 - Fix layout issue in Admin panel
