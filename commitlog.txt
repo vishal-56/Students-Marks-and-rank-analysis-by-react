@@ -24,3 +24,4 @@
 // Commit 24 - Refactor modal pop-up behavior
 // Commit 25 - Fix year-wise marks display bug
 // Commit 26 - Enhance graph readability
+// Commit 27 - Improve dashboard stats view
