@@ -28,3 +28,4 @@
 // Commit 28 - Optimize image loading
 // Commit 29 - Add default profile icon
 // Commit 30 - Fix warning in console logs
+// Commit 31 - Refactor Firebase auth logic
