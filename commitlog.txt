@@ -29,3 +29,4 @@
 // Commit 29 - Add default profile icon
 // Commit 30 - Fix warning in console logs
 // Commit 31 - Refactor Firebase auth logic
+// Commit 32 - Improve routing between pages
