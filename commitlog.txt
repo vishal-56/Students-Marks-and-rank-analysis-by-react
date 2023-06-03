@@ -30,3 +30,4 @@
 // Commit 30 - Fix warning in console logs
 // Commit 31 - Refactor Firebase auth logic
 // Commit 32 - Improve routing between pages
+// Commit 33 - Fix loader animation speed
