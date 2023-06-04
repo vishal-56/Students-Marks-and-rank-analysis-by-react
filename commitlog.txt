@@ -31,3 +31,4 @@
 // Commit 31 - Refactor Firebase auth logic
 // Commit 32 - Improve routing between pages
 // Commit 33 - Fix loader animation speed
+// Commit 34 - Update Terms & Conditions
