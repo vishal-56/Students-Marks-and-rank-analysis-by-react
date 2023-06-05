@@ -32,3 +32,4 @@
 // Commit 32 - Improve routing between pages
 // Commit 33 - Fix loader animation speed
 // Commit 34 - Update Terms & Conditions
+// Commit 35 - Enhance contact form layout
