@@ -35,3 +35,4 @@
 // Commit 35 - Enhance contact form layout
 // Commit 36 - Fix issue in forgot password
 // Commit 37 - Update banner image
+// Commit 38 - Improve scroll behavior
