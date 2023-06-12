@@ -39,3 +39,4 @@
 // Commit 39 - Fix responsive layout for mobile
 // Commit 40 - Fix alignment in recommendation cards
 // Commit 41 - Update student schema structure
+// Commit 42 - Fix missing footer links
