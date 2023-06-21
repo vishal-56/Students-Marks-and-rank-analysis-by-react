@@ -48,3 +48,4 @@
 // Commit 48 - Add new favicon
 // Commit 49 - Improve navigation UX
 // Commit 50 - Fix bug in third year table
+// Commit 51 - Add Google font support
