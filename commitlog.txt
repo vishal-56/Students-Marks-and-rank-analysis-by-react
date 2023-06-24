@@ -51,3 +51,4 @@
 // Commit 51 - Add Google font support
 // Commit 52 - Fix blurry background in hero section
 // Commit 53 - Improve error handling
+// Commit 54 - Fix data sorting logic
