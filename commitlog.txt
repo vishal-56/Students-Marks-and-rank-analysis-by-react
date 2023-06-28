@@ -55,3 +55,4 @@
 // Commit 55 - Update deployment settings
 // Commit 56 - Fix Firebase config typo
 // Commit 57 - Add screenshots to documentation
+// Commit 58 - Improve hover effects on buttons
