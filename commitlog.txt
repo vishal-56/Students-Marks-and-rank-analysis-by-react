@@ -60,3 +60,4 @@
 // Commit 60 - Enhance color contrast for accessibility
 // Commit 61 - Fix animation delay issue
 // Commit 62 - Update chart.js version
+// Commit 63 - Fix spacing in marks table
