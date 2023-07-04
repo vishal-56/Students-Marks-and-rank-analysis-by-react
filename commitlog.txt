@@ -61,3 +61,4 @@
 // Commit 61 - Fix animation delay issue
 // Commit 62 - Update chart.js version
 // Commit 63 - Fix spacing in marks table
+// Commit 64 - Fix scrollbar on dashboard
