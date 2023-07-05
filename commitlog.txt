@@ -62,3 +62,4 @@
 // Commit 62 - Update chart.js version
 // Commit 63 - Fix spacing in marks table
 // Commit 64 - Fix scrollbar on dashboard
+// Commit 65 - Improve placeholder text in forms
