@@ -64,3 +64,4 @@
 // Commit 64 - Fix scrollbar on dashboard
 // Commit 65 - Improve placeholder text in forms
 // Commit 66 - Update footer with latest info
+// Commit 67 - Fix issue with modal closing
