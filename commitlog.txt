@@ -68,3 +68,4 @@
 // Commit 68 - Improve admin login flow
 // Commit 69 - Fix memory leak warning
 // Commit 70 - Refactor backend routes
+// Commit 71 - Add fallback routes
