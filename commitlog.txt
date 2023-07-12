@@ -69,3 +69,4 @@
 // Commit 69 - Fix memory leak warning
 // Commit 70 - Refactor backend routes
 // Commit 71 - Add fallback routes
+// Commit 72 - Improve marks input UI
