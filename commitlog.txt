@@ -71,3 +71,4 @@
 // Commit 71 - Add fallback routes
 // Commit 72 - Improve marks input UI
 // Commit 73 - Fix year dropdown bug
+// Commit 74 - Add backend error logging
