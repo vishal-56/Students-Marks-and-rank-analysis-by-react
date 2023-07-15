@@ -72,3 +72,4 @@
 // Commit 72 - Improve marks input UI
 // Commit 73 - Fix year dropdown bug
 // Commit 74 - Add backend error logging
+// Commit 75 - Fix double render issue
