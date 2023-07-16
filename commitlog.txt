@@ -73,3 +73,4 @@
 // Commit 73 - Fix year dropdown bug
 // Commit 74 - Add backend error logging
 // Commit 75 - Fix double render issue
+// Commit 76 - Improve Admin.js component structure
