@@ -75,3 +75,4 @@
 // Commit 75 - Fix double render issue
 // Commit 76 - Improve Admin.js component structure
 // Commit 77 - Fix table header alignment
+// Commit 78 - Fix broken icon path
