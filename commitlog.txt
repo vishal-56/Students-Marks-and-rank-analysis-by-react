@@ -76,3 +76,4 @@
 // Commit 76 - Improve Admin.js component structure
 // Commit 77 - Fix table header alignment
 // Commit 78 - Fix broken icon path
+// Commit 79 - Refactor app.js structure
