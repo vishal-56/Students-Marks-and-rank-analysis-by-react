@@ -77,3 +77,4 @@
 // Commit 77 - Fix table header alignment
 // Commit 78 - Fix broken icon path
 // Commit 79 - Refactor app.js structure
+// Commit 80 - Fix login redirect issue
