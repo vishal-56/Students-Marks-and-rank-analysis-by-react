@@ -92,3 +92,4 @@
 // Commit 92 - Fix color inconsistencies
 // Commit 93 - Fix React strict mode warning
 // Commit 94 - Improve button accessibility
+// Commit 95 - Fix unused imports in frontend
