@@ -4,7 +4,11 @@
 
 ## Description
 
-This project is a web application built with React that allows users to analyze students' marks and ranks. It provides various features for inputting, processing, and visualizing student data.
+This project is a web application built with React that allows users to analyze students' marks and ranks. It provides various features for inputting, processing, and visualizing student data to help users better understand student performance and ranking.
+
+![Screenshot 1](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012029.png)
+![Screenshot 2](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012045.png)
+![Screenshot 3](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012052.png)
 
 ## Features
 
@@ -12,6 +16,14 @@ This project is a web application built with React that allows users to analyze 
 - **Data Analysis**: Calculate average marks, highest and lowest scores, and rank students.
 - **Visualizations**: Display charts and graphs for better understanding of the data.
 - **Responsive Design**: Works on both desktop and mobile devices.
+
+![Screenshot 4](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012112.png)
+![Screenshot 5](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012430.png)
+![Screenshot 6](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/Screenshot%202024-09-16%20012445.png)
+
+You can also check out a demo of the application in action here:
+
+[![Demo Video](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/newrec%20(2)%20(1)%20(1)%20(1).mp4)](https://github.com/vishal-56/Students-Marks-and-rank-analysis-by-react/blob/master/screen/newrec%20(2)%20(1)%20(1)%20(1).mp4)
 
 ## Technologies Used
 
@@ -68,3 +80,4 @@ If you’d like to contribute to this project, please follow these steps:
 4. **Push to the Branch**:
    ```sh
    git push origin feature/YourFeature
+   ```
